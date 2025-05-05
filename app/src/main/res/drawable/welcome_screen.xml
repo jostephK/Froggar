@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Primary background color-->
+    <item android:drawable="@android:color/black"/>
+    <!--Image for Welcome Screen-->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/welcome"/>
+    </item>
+</layer-list>

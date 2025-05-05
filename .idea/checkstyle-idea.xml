@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.41.1</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <suppressErrors>true</suppressErrors>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="ffbbb35b-69f4-4b12-a84a-98c6bae5bfeb" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="6f77dfdc-f3ef-4dcb-bf19-f70662c034ab" type="LOCAL_FILE" scope="All" description="CS2340">$PROJECT_DIR$/../misc/cs2340_checks.xml</ConfigurationLocation>
+        <ConfigurationLocation id="ffbbb35b-69f4-4b12-a84a-98c6bae5bfeb" type="LOCAL_FILE" scope="All" description="cs2340 checks">$PROJECT_DIR$/../cs2340_checks.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
